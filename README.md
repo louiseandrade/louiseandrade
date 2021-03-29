@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**louiseandrade/louiseandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.linkedin.com/in/louise-andrade/"><img align=”left” src="https://drive.google.com/file/d/1ttBwLVJycjHCVNaSsKTt5iu6bPw637Ld/view?usp=sharing"/></a>
 

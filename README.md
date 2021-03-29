@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/louise-andrade/"><img align=”left” src="https://drive.google.com/file/d/1ttBwLVJycjHCVNaSsKTt5iu6bPw637Ld/view?usp=sharing"/></a>
+<a href="https://www.linkedin.com/in/louise-andrade/"><img align=”left” src="louiseandrade.gif"/></a>
 
 Here are some ideas to get you started:
 

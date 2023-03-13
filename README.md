@@ -4,6 +4,6 @@
 About Me:
 
 - 🔭 I’m currently working on Marketing Digital and volunteer in Cloud Girls.
-- 🌱 I’m currently learning programming and speak Spanish.
+- 🌱 I’m currently learning programming in Python.
 - 😄 Pronouns: She/Her.
 -->
